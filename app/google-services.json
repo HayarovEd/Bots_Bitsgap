@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75607292283",
+    "project_id": "bots-bitsgap",
+    "storage_bucket": "bots-bitsgap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75607292283:android:ad5b016502a700031325de",
+        "android_client_info": {
+          "package_name": "trading.bots.research.bits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNVOjB0gCPFuJI2PNrSrvGY0gN5qwIjcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
