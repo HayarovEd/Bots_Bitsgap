@@ -1,3 +1,52 @@
 <resources>
     <string name="app_name">Bots Bitsgap</string>
+
+    <string name="grid_trading_bot">GRID Trading Bot</string>
+    <string name="grid_trading_bot_sub">Profit from the slightest market moves</string>
+    <string name="grid_trading_bot_short">The highly efficient bot based on the grid strategy. Use it to maximize profits on every price changes in a sideways market</string>
+    <string name="grid_trading_bot_full">A GRID Trading Bot, like our advanced Bitsgap Crypto Bot, is an automated system designed to execute a GRID trading strategy in the dynamic world of crypto trading. The bot is programmed to buy low and sell high within a specific price range, dividing the range into multiple levels or "grids," hence the name.\nThe Bitsgap GRID Crypto Trading Bot implements this strategy by placing buy and sell orders at each grid level within a predetermined price range. When the price moves up, the bot sells; when it moves down, the bot buys. This strategy capitalizes on the natural volatility of the cryptocurrency market, aiming to generate profit from fluctuating prices.</string>
+
+    <string name="dca_trading_bot">DCA Trading Bot</string>
+    <string name="dca_trading_bot_sub">Risk-reduced earnings\nin volatile markets</string>
+    <string name="dca_trading_bot_short">The powerful crypto bot based on the Dollar-cost Averaging strategy. Use it to multiply profits and reduce risks by averaging positions.</string>
+    <string name="dca_trading_bot_full">A DCA Trading Bot, one of Bitsgap Crypto Bots, is an automated system that carries out Dollar Cost Averaging (DCA) in crypto trading. It enables the investor to purchase fixed dollar amounts of a particular cryptocurrency at regular intervals, irrespective of its price. This strategy can mitigate the effects of market volatility and potentially lead to long-term gains.\nThe Bitsgap DCA Crypto Trading Bot utilizes DCA Trading Strategy to consistently invest in your preferred cryptocurrency. Rather than trying to time the market, which is inherently unpredictable, the bot will distribute your investment evenly over a set period. This could lead to purchasing more crypto when prices are low and less when they're high, thus potentially lowering the average cost per coin over time.</string>
+
+    <string name="btd_trading_bot">BTD Trading Bot</string>
+    <string name="btd_trading_bot_sub">Making the most\nof the falling price</string>
+    <string name="btd_trading_bot_short">The downtrend crypto bot based on the popular Buy the Dip strategy. Use it to earn and hodl coins when the market falls.</string>
+    <string name="btd_trading_bot_full">A BTD Trading Bot, one of the innovative Bitsgap Crypto Bots, is a state-of-the-art system that automates the Buy the Dip (BTD) strategy in crypto trading. Its programmed to identify and seize opportunities when a particular cryptocurrency price falls, allowing you to buy low and potentially sell high.\nThe Bitsgap BTD Crypto Trading Bot employs the Buy The Dip trading strategy by automatically purchasing your chosen cryptocurrency when a significant dip in price occurs. This strategy is based on the concept of purchasing assets at a lower cost during market downswings, with the expectation of selling them at a profit when the price recovers.</string>
+
+    <string name="dca_futures_trading_bot">DCA Futures Trading Bot</string>
+    <string name="dca_futures_trading_bot_sub">High rewards and\nrisks on crypto futures</string>
+    <string name="dca_futures_trading_bot_short">The easy-to-run futures crypto bot based on DCA strategy crafted for futures trading. Use it to earn from both Long and Short positions.</string>
+    <string name="dca_futures_trading_bot_full">The DCA Futures Trading Bot is an advanced tool within Bitsgaps Crypto Bot portfolio, designed specifically for crypto futures trading. This bot applies the Dollar Cost Averaging (DCA) strategy, allowing you to participate in Binance Futures and other crypto futures markets automatically and strategically.\nThe DCA strategy is beneficial for trading futures as it mitigates the risk associated with market volatility. By automatically investing a fixed amount into your chosen cryptocurrency at regular intervals, the Bitsgap DCA Futures Trading Bot allows you to buy more crypto when prices are low and less when they're high. This reduces the impact of short-term price swings and potentially lowers the average cost per coin in the long run.</string>
+
+    <string name="combo_trading_bot">COMBO Trading Bot</string>
+    <string name="combo_trading_bot_sub">High rewards and\nrisks on crypto futures</string>
+    <string name="combo_trading_bot_short">The dynamic futures crypto bot based on DCA and GRID strategies. Use it for amplified gains and risks in any futures market condition.</string>
+    <string name="combo_trading_bot_full">The COMBO Trading Bot, one of the exceptional tools in Bitsgaps Crypto Bot suite, is an automated system developed for futures trading in the crypto market. Its engineered to simultaneously apply multiple strategies, optimizing your opportunities in the ever-volatile crypto futures landscape when trading on different exchanges, such as Binance Futures.\nOur COMBO Crypto Trading Bot is designed to use a combination of popular and powerful GRID and Dollar-cost Averaging (DCA) strategies, to maximize your potential earnings. Depending on market conditions, the bot decides which strategy is best to apply, using DCA for Buy and GRID for Sell orders and offering an edge in the dynamic world of crypto futures trading.</string>
+
+
+    <string name="sideways">Sideways</string>
+    <string name="long_">Long</string>
+    <string name="short_">Short</string>
+    <string name="learn_more">Learn more</string>
+    <string name="strategies">Strategies</string>
+    <string name="stop_loss">Stop Loss</string>
+    <string name="trailing_down">Trailing Down</string>
+    <string name="take_profit">Take Profit</string>
+    <string name="pump_dump_protection">Pump / Dump\nProtection</string>
+    <string name="trailing_up">Trailing Up</string>
+    <string name="backtest">Backtest</string>
+    <string name="multiplier">Multiplier</string>
+    <string name="max_min_price">Max. / Min. Price</string>
+    <string name="average_orders_limit">Average\nOrders Limit</string>
+    <string name="technical_indicators">Technical\nIndicators</string>
+    <string name="manual_averaging">Manual\nAveraging</string>
+    <string name="strategies_3">+3\nstrategies</string>
+    <string name="low_high_price">Low / High Price</string>
+    <string name="demo_mode">Demo Mode</string>
+    <string name="trailing_up_down">Trailing\nUp / Down</string>
+    <string name="leverage_x10">Leverage ×10</string>
+
 </resources>
