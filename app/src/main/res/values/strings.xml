@@ -2,7 +2,7 @@
     <string name="app_name">Bots Bitsgap</string>
 
     <string name="grid_trading_bot">GRID Trading Bot</string>
-    <string name="grid_trading_bot_sub">Profit from the slightest market moves</string>
+    <string name="grid_trading_bot_sub">Profit from the slightest\nmarket moves</string>
     <string name="grid_trading_bot_short">The highly efficient bot based on the grid strategy. Use it to maximize profits on every price changes in a sideways market</string>
     <string name="grid_trading_bot_full">A GRID Trading Bot, like our advanced Bitsgap Crypto Bot, is an automated system designed to execute a GRID trading strategy in the dynamic world of crypto trading. The bot is programmed to buy low and sell high within a specific price range, dividing the range into multiple levels or "grids," hence the name.\nThe Bitsgap GRID Crypto Trading Bot implements this strategy by placing buy and sell orders at each grid level within a predetermined price range. When the price moves up, the bot sells; when it moves down, the bot buys. This strategy capitalizes on the natural volatility of the cryptocurrency market, aiming to generate profit from fluctuating prices.</string>
 
