@@ -35,6 +35,9 @@ val subText4 = Color(0xFFF06618)
 val text5 = Color(0xFF3F2405)
 val subText5 = Color(0xFFF08D18)
 
+val border = Color(0xFFB1B4C0)
+
+
 
 
 
