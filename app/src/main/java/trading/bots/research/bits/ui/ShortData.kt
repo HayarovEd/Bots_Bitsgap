@@ -75,8 +75,7 @@ fun ShortData(
         Brush.verticalGradient(colors = listOf(greySub, darkGreySub), startY = 0.1f)
     Column(
         modifier = modifier
-            .fillMaxSize()
-            .background(color = background)
+            .fillMaxWidth()
             .padding(24.dp)
             .verticalScroll(rememberScrollState())
     ) {
