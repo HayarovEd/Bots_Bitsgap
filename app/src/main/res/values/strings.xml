@@ -31,6 +31,7 @@
     <string name="long_">Long</string>
     <string name="short_">Short</string>
     <string name="learn_more">Learn more</string>
+    <string name="back">Back</string>
     <string name="strategies">Strategies</string>
     <string name="stop_loss">Stop Loss</string>
     <string name="trailing_down">Trailing Down</string>

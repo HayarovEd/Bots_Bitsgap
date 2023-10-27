@@ -20,8 +20,7 @@ fun MockScreen (
     val pagerState = rememberPagerState(initialPage = 0)
     HorizontalPager(
         modifier = modifier
-            .fillMaxSize()
-            .background(color = background),
+            .fillMaxSize(),
         pageCount = pages.size,
         state = pagerState
     ) { pageIndex ->
